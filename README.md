@@ -70,7 +70,8 @@
 - Electiva 3
 - Preproyecto *
 - Sistemas Computacionales
-- Décimo Semestre
+
+### [Décimo Semestre](Decimo%20Semestre)
 
 ### Proyecto de Grado *
 
